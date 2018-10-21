@@ -2,7 +2,7 @@
 
 This repository contains some small PHP Scripts which can be included into other codes.
 
-For more info to each file, please read the documentation in them!!!
+For more information to each file, please read the documentation inside them!!!
 
 **currently containes:**
   - bit.php
