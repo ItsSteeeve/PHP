@@ -7,4 +7,4 @@ which can be included into other codes.
 
 **currently containes:**
   - bit.php
-    - script to generate bitcodes
+    - script to generate bitcodes out of ASCII strings
