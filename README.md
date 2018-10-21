@@ -5,5 +5,5 @@ This repository contains some small PHP Scripts which can be included into other
 For more information to each file, please read the documentation inside them!!!
 
 **currently containes:**
-  - bit.php
+  - bit.inc.php
     - script to generate bitcodes out of ASCII strings
